@@ -12,6 +12,7 @@ import org.springframework.context.annotation.Bean;
 public class Application {
 
     public static void main(String[] args) {
+	//This is a test comment
         SpringApplication.run(Application.class, args);
     }
 
